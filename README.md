@@ -4,7 +4,7 @@ Jestem studentką informatyki na studiach inżynierskich (ukończenie: 2026), ro
 które pozwolą mi zdobyć doświadczenie komercyjne i pogłębić wiedzę poprzez realne projekty.
 
 ## 💻 Technologie, z którymi pracuję:
-- C#, .NET 6/7
+- C#, .NET 7/8/9
 - ASP.NET Core (MVC, Web API)
 - Entity Framework Core
 - SQL Server / SQLite
